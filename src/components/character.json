@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "Michael",
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/7/7d/Season_5_Character_Posters_-_Michael_02.jpg/revision/latest?cb=20180606212948"
+    },
+    {
+        "id": 2,
+        "name": "GOB",
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/b/ba/Season_5_Character_Posters_-_G.O.B_02.jpg/revision/latest?cb=20180606212944"
+    },
+    {
+        "id": 3,
+        "name": "Lindsay",
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/a/a6/Season_5_Character_Posters_-_Lindsay_02.jpg/revision/latest/scale-to-width-down/640?cb=20180606212946"
+    },
+    {
+        "id": 4,
+        "name": "George Michael",
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/f/f5/Season_5_Character_Posters_-_George-Michael_02.jpg/revision/latest/scale-to-width-down/640?cb=20180606212945"
+    },
+    {
+        "id": 5,
+        "name": "Maeby",
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/d/d9/Season_5_Character_Posters_-_Maeby_02.jpg/revision/latest?cb=20180606212947"
+    },
+    {
+        "id": 6,
+        "name": "Buster",
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/f/f6/Season_5_Character_Posters_-_Buster_02.jpg/revision/latest?cb=20180606212943"
+    },
+    {
+        "id": 7,
+        "name": "Tobias",
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/a/a1/Season_5_Character_Posters_-_Tobias_02.jpg/revision/latest?cb=20180606212949"
+    },
+    {
+        "id": 8,
+        "name": "Lucille",
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/e/e2/Season_5_Character_Posters_-_Lucille_02.jpg/revision/latest?cb=20180606212947"
+    },
+    {
+        "id": 9,
+        "name": "George",
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/e/ee/Season_5_Character_Posters_-_George_02.jpg/revision/latest?cb=20180606212945"
+    }
+    
+]
