@@ -8,7 +8,8 @@ class Game extends Component {
     this.state = {
       score: 0,
       highScore: 0,
-      clicked: []
+      clicked: [],
+      message: "See if you can click each member of the Bluth family only once!"
     };
   }
 
@@ -31,10 +32,9 @@ class Game extends Component {
             }
         });
     }
-    
-
   };
 
+  //code from https://bost.ocks.org/mike/shuffle/
   shuffle = array => {
     var m = array.length, t, i;
     // While there remain elements to shuffle…
@@ -52,9 +52,13 @@ class Game extends Component {
   render() {
     return (
       <div>
-        <h1>Score: {this.state.score}</h1>
-        <h1>High Score: {this.state.highScore}</h1>
-        <div className="row mt-5 justify-content-md-center">
+        <p className="h4 tc">{this.state.message}</p>
+        <div className="h4 tc">
+          <span>Score: {this.state.score}</span>
+          <span> | </span>
+          <span>High Score: {this.state.highScore}</span>
+        </div>
+        <div className="row justify-content-md-center">
           {this.shuffle(character).map(data => {
             return (
               <Card

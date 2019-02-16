@@ -6,7 +6,7 @@ class Card extends Component {
   render() {
     return (
       <div 
-        class="col-md-3 m-3 p-2 blue lighten-3 rounded z-depth-2 grow pointer" 
+        class="col-md-3 mx-3 mb-4 p-2 blue lighten-3 rounded z-depth-2 grow pointer mt0" 
         onClick={this.props.onClick}
         >
           <img 
